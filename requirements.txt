@@ -1,0 +1,15 @@
+tweepy
+facebook-sdk
+newsapi-python
+python-dotenv
+requests
+pytz
+schedule
+logging
+json5
+pandas
+numpy
+nltk
+ratelimit
+aiohttp
+asyncio 
